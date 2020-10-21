@@ -14,17 +14,17 @@
  #We have to choose one numerical number
  
  
-#If the user's choice is 1 Entrance_Exams() is executed according to the user's input. 
+#If the user's choice is 1 Entrance_exams() is executed according to the user's input. 
 
-#If the user's choice is 2 B.E/Btech() is executed according to the user's valid options.
+#If the user's choice is 2 Btech() is executed according to the user's valid options.
             
-#If the user's choice is 3 B.Arch() is executed according to the user's valid options.
+#If the user's choice is 3 Arch() is executed according to the user's valid options.
             
-#If the user's choice is 4 B.sc() is executed according to the user's input.
+#If the user's choice is 4 Bsc() is executed according to the user's input.
             
-#If the user's choice is 5 Integrated_M.sc() is executed according to the user's input.
+#If the user's choice is 5 integrated_Msc() is executed according to the user's input.
             
-#If the user's choice is 6 B.L() is executed according to the user's input.
+#If the user's choice is 6 Bl() is executed according to the user's input.
             
 #If the user's choice is 7 Jobss() is executed according to the user's input.
 
